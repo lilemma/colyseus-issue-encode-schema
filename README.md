@@ -1,0 +1,1 @@
+# colyseus-issue-encode-schema
